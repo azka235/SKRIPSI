@@ -10,10 +10,10 @@ SPARTA adalah sistem web yang dirancang untuk melindungi data kependudukan melal
 
 ## 🎯 **TUJUAN PROYEK**
 
-1. **Keamanan Data**: Melindungi data kependudukan dari akses tidak sah
+1. **Keamanan Data**         : Melindungi data kependudukan dari akses tidak sah
 2. **Efisiensi Administrasi**: Otomatisasi pembuatan surat kelurahan
-3. **Kemudahan Akses**: Interface yang user-friendly untuk petugas kelurahan
-4. **Audit Trail**: Pencatatan aktivitas enkripsi/dekripsi data
+3. **Kemudahan Akses**       : Interface yang user-friendly untuk petugas kelurahan
+4. **Audit Trail**           : Pencatatan aktivitas enkripsi/dekripsi data
 
 ---
 
