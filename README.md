@@ -34,13 +34,13 @@ SPARTA adalah sistem web yang dirancang untuk melindungi data kependudukan melal
 ### 3. 📄 **Generate Surat Kelurahan**
 Sistem dapat menghasilkan 5 jenis surat resmi:
 
-| Jenis Surat | Keterangan | Penggunaan |
-|-------------|------------|------------|
-| **Surat Keterangan Domisili** | Bukti tempat tinggal | Administrasi kependudukan |
-| **Surat Keterangan Tidak Mampu** | Bukti kondisi ekonomi | Beasiswa, bantuan sosial |
-| **Surat Keterangan Usaha** | Bukti kegiatan usaha | Perizinan usaha |
-| **Surat Keterangan Kelakuan Baik** | Bukti kepribadian | Melamar kerja, beasiswa |
-| **Surat Keterangan Belum Menikah** | Bukti status pernikahan | Administrasi, beasiswa |
+| Jenis Surat                        | Keterangan              | Penggunaan                |
+|------------------------------------|-------------------------|---------------------------|
+| **Surat Keterangan Domisili**      | Bukti tempat tinggal    | Administrasi kependudukan |
+| **Surat Keterangan Tidak Mampu**   | Bukti kondisi ekonomi   | Beasiswa, bantuan sosial  |
+| **Surat Keterangan Usaha**         | Bukti kegiatan usaha    | Perizinan usaha           |
+| **Surat Keterangan Kelakuan Baik** | Bukti kepribadian       | Melamar kerja, beasiswa   |
+| **Surat Keterangan Belum Menikah** | Bukti status pernikahan | Administrasi, beasiswa    |
 
 ### 4. 👤 **Sistem Autentikasi**
 - **Admin Login**: Username: `admin`, Password: `admin13`
@@ -245,13 +245,13 @@ Password: admin13
 
 ## 📈 **METRIK KEBERHASILAN**
 
-| Metrik | Target | Hasil |
-|--------|--------|-------|
-| **Keamanan Data** | 100% terenkripsi | ✅ 100% |
-| **Akurasi Dekripsi** | 100% | ✅ 100% |
-| **Response Time** | < 3 detik | ✅ < 2 detik |
-| **Uptime** | 99.9% | ✅ 99.9% |
-| **User Satisfaction** | > 90% | ✅ 95% |
+| Metrik                | Target           | Hasil        |
+|-----------------------|------------------|--------------|
+| **Keamanan Data**     | 100% terenkripsi | ✅ 100%      |
+| **Akurasi Dekripsi**  | 100%             | ✅ 100%      |
+| **Response Time**     | < 3 detik        | ✅ < 2 detik |
+| **Uptime**            | 99.9%            | ✅ 99.9%     |
+| **User Satisfaction** | > 90%            | ✅ 95%       |
 
 ---
 
@@ -279,10 +279,10 @@ Password: admin13
 
 ## 👥 **TIM PENGEMBANG**
 
-- **Developer**: [Nama Developer]
-- **Supervisor**: [Nama Supervisor]
-- **Institution**: [Nama Universitas]
-- **Year**: 2024
+- **Developer**: [Azka]
+- **Supervisor**: [Azkaed]
+- **Institution**: [UPI]
+- **Year**: 2025
 
 ---
 
@@ -296,9 +296,9 @@ Proyek ini dibuat untuk tujuan edukasi dan demonstrasi sistem enkripsi data kepe
 
 ## 📞 **KONTAK**
 
-- **Email**: [email@domain.com]
-- **GitHub**: [github-username]
-- **LinkedIn**: [linkedin-profile]
+- **Email**: [azkaermaya2@upi.edu]
+- **GitHub**: [github-azka235]
+- **LinkedIn**: [linkedin-azka]
 
 ---
 
